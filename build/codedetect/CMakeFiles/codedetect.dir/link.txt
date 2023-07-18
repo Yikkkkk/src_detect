@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcodedetect.a  CMakeFiles/codedetect.dir/codedetect.cpp.o
+/usr/bin/ranlib libcodedetect.a
